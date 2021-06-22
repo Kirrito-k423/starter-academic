@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
- - title: Participants of 2021 ASC
+  - title: Participants of 2021 ASC
     company: Southern University of Science and Technology
     company_url: 'http://www.asc-events.org/'
     company_logo: org-ASC
@@ -39,7 +39,6 @@ experience:
     date_start: '2021-05-08'
     date_end: '2021-06-18'
     description: ISC Student Cluster Competition 2021, co-organized by the HPC-AI Advisory Council and ISC Group, will take place during the ISC High Performance Conference, virtually on June, 2021.
-
     This year, the National Supercomputing Center (NSCC) Singapore and University of Toronto has graciously provided us an access to their leading supercomputers to use during the competition, which we will utilize via an online remote access.
 
   # - title: CEO
