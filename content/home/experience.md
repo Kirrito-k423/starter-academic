@@ -39,8 +39,9 @@ experience:
     date_start: '2021-05-08'
     date_end: '2021-06-18'
     description: |2-
-    ISC Student Cluster Competition 2021, co-organized by the HPC-AI Advisory Council and ISC Group, will take place during the ISC High Performance Conference, virtually on June, 2021.
-    This year, the National Supercomputing Center (NSCC) Singapore and University of Toronto has graciously provided us an access to their leading supercomputers to use during the competition, which we will utilize via an online remote access.
+        ISC Student Cluster Competition 2021, co-organized by the HPC-AI Advisory Council and ISC Group, will take place during the ISC High Performance Conference, virtually on June, 2021.
+
+        This year, the National Supercomputing Center (NSCC) Singapore and University of Toronto has graciously provided us an access to their leading supercomputers to use during the competition, which we will utilize via an online remote access.
 
   # - title: CEO
   #   company: GenCoin
