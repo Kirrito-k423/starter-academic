@@ -25,7 +25,7 @@ experience:
   - title: Participants of 2021 ASC
     company: Southern University of Science and Technology
     company_url: 'http://www.asc-events.org/'
-    company_logo: org-ASC
+    company_logo: org-x
     location: Shenzhen. China
     date_start: '2021-05-08'
     date_end: '2021-05-12'
@@ -34,34 +34,36 @@ experience:
   - title: Participants of 2021 ISC
     company: National Supercomputing Center (NSCC) Singapore and University of Toronto
     company_url: 'http://www.hpcadvisorycouncil.com/events/student-cluster-competition/'
-    company_logo: org-ISC
+    company_logo: HPC
     location: online
     date_start: '2021-05-08'
     date_end: '2021-06-18'
-    description: ISC Student Cluster Competition 2021, co-organized by the HPC-AI Advisory Council and ISC Group, will take place during the ISC High Performance Conference, virtually on June, 2021.This year, the National Supercomputing Center (NSCC) Singapore and University of Toronto has graciously provided us an access to their leading supercomputers to use during the competition, which we will utilize via an online remote access.
+    description: |2-
+        ISC Student Cluster Competition 2021, co-organized by the HPC-AI Advisory Council and ISC Group, will take place during the ISC High Performance Conference, virtually on June, 2021.
 
-  # - title: CEO
-  #   company: GenCoin
-  #   company_url: ''
-  #   company_logo: org-gc
-  #   location: California
-  #   date_start: '2021-01-01'
-  #   date_end: ''
-  #   description: |2-
-  #       Responsibilities include:
-        
-  #       * Analysing
-  #       * Modelling
-  #       * Deploying
-        
-  # - title: Professor of Semiconductor Physics
-  #   company: University X
-  #   company_url: ''
-  #   company_logo: org-x
-  #   location: California
-  #   date_start: '2016-01-01'
-  #   date_end: '2020-12-31'
-  #   description: Taught electronic engineering and researched semiconductor physics.
+        This year, the National Supercomputing Center (NSCC) Singapore and University of Toronto has graciously provided us an access to their leading supercomputers to use during the competition, which we will utilize via an online remote access.
+# - title: CEO
+#   company: GenCoin
+#   company_url: ''
+#   company_logo: org-gc
+#   location: California
+#   date_start: '2021-01-01'
+#   date_end: ''
+#   description: |2-
+#       Responsibilities include:
+      
+#       * Analysing
+#       * Modelling
+#       * Deploying
+      
+# - title: Professor of Semiconductor Physics
+#   company: University X
+#   company_url: ''
+#   company_logo: org-x
+#   location: California
+#   date_start: '2016-01-01'
+#   date_end: '2020-12-31'
+#   description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
