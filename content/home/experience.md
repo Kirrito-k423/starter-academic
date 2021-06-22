@@ -34,7 +34,7 @@ experience:
   - title: Participants of 2021 ISC
     company: National Supercomputing Center (NSCC) Singapore and University of Toronto
     company_url: 'http://www.hpcadvisorycouncil.com/events/student-cluster-competition/'
-    company_logo: HPC
+    company_logo: org-gc
     location: online
     date_start: '2021-05-08'
     date_end: '2021-06-18'
